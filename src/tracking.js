@@ -1,6 +1,6 @@
 (function(window, undefined) {
   window.tracking = window.tracking || {};
-
+// break it down for clear  understanding
   /**
    * Inherit the prototype methods from one constructor into another.
    *
